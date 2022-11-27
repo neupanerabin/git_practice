@@ -19,7 +19,8 @@ Rename Name & Email:
 	notepad test.txt                            -------------------> open the file create in notepad
 	git config  --global core.editor"notepad"   ------> for selection of core editor
 	notepad test.txt  --------------------------------------> open the create file in notepad 
-	git config --list                                    ---------------> display all the available list
+	git config --list                     ---------------> display all the available list
+	ENTER q to exit from this step
 		
 	
 # TRACK FILE 
