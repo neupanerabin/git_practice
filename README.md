@@ -1,4 +1,3 @@
-# git_practice
 
 git --version  ------> show the version
 git --help       ------> git Documentation 
@@ -19,10 +18,9 @@ Rename Name & Email:
 	notepad test.txt                            -------------------> open the file create in notepad
 	git config  --global core.editor"notepad"   ------> for selection of core editor
 	notepad test.txt  --------------------------------------> open the create file in notepad 
-	git config --list                     ---------------> display all the available list
-	ENTER q to exit from this step
+	git config --list                                    ---------------> display all the available list
 		
-	
+	 q --> to exit from here
 # TRACK FILE 
   1. make directory :          mkdir shop
   2.  change directory :      cd shop
@@ -79,9 +77,9 @@ git checkout meat  ------>To enter to the particular branch like meat
  
 
  For GitHub
- 1. Goto github and sign in 
+ 1. Go to GitHub and sign in 
  2. Copy http link given on there url
-  3. Sinchronize our local repository with the new repository on GitHub
+  3. Synchronize our local repository with the new repository on GitHub
 
 
 
@@ -91,4 +89,4 @@ Screen clipping taken: 07/11/2022 22:22
       
 
 Commit hash code is unique email id 
-![image](https://user-images.githubusercontent.com/65486178/204134693-4203ebd8-1b90-428d-b35d-8d76f521821a.png)
+![image](https://user-images.githubusercontent.com/65486178/204136729-e18e86f2-f7e0-4a28-8de8-000959bd360e.png)
